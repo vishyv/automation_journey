@@ -1,5 +1,7 @@
 # 🔐 Mini Project: Simple Login System with Logging
 
+## Week 1 - Login Logger
+
 ## 📌 Objective
 This is a beginner-friendly Python project that simulates a login system and logs all login attempts to a text file with timestamps.
 
